@@ -1,1 +1,1 @@
-Serviço de envio e Queuing de emails utilizado no repo https://github.com/anthonyreis/serverless_auction
+Serviço de envio e queuing de emails utilizado no repo https://github.com/anthonyreis/serverless_auction

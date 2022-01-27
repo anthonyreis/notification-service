@@ -1,0 +1,5 @@
+sendMailIAM:
+  Effect: Allow
+  Action:
+    - ses:sendEmail
+  Resource: arn:aws:ses:sa-east-1:378797594029:identity/emailjogos.max@gmail.com

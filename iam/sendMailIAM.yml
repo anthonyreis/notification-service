@@ -1,4 +1,4 @@
-sendMailIAM:
+SendMailIAM:
   Effect: Allow
   Action:
     - ses:sendEmail
